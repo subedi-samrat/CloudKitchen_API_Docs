@@ -20,12 +20,10 @@
 - [Kitchen Operations](./guides/KITCHEN_OPERATIONS.md)
 - [Error Codes](./api/ERROR_CODES.md)
 
-## Getting Started
+## Acknowledgements
 
-1. Clone the repository
-2. Install dependencies
-3. Set up environment variables
-4. Run database migrations
-5. Start the development server
+- [Prisma ORM](https://www.prisma.io/)
+- [Mermaid.js](https://mermaid.js.org/)
+- [Mermaid Live Editor](https://mermaid.live/)
 
-For detailed instructions, see the [Development Guide](./development/README.md).
+
