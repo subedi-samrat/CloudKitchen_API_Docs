@@ -15,15 +15,18 @@
 
 - [API Endpoints](./api/ENDPOINTS.md)
 - [Database Models](./database/MODELS.md)
+- [Authentication System](./architecture/Authentication_System.md)
 - [Authentication Flow](./guides/AUTH_FLOW.md)
 - [Order Flow](./guides/ORDER_FLOW.md)
 - [Kitchen Operations](./guides/KITCHEN_OPERATIONS.md)
 - [Error Codes](./api/ERROR_CODES.md)
 
-## Acknowledgements
+## Getting Started
 
-- [Prisma ORM](https://www.prisma.io/)
-- [Mermaid.js](https://mermaid.js.org/)
-- [Mermaid Live Editor](https://mermaid.live/)
+1. Clone the repository
+2. Install dependencies
+3. Set up environment variables
+4. Run database migrations
+5. Start the development server
 
-
+For detailed instructions, see the [Development Guide](./development/README.md).
