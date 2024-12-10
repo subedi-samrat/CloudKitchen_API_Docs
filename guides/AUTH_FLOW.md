@@ -2,7 +2,9 @@
 
 ## Overview
 
-The authentication system uses a combination of phone verification and JWT tokens to secure the application. This document details the complete authentication flow, including phone verification, login process, and session management.
+The authentication system uses a combination of Email and phone verification and JWT tokens to secure the application. This document details the complete authentication flow, including phone verification, login process, and session management.
+
+## Go to [Authentication System](./architecture/Authentication_System.md) for more detailed Information.
 
 ## 1. Phone Verification Flow
 
